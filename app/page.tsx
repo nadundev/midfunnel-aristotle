@@ -1,5 +1,3 @@
-import Image from "next/image";
-import Deals from "./deals/page";
 import Header from "./components/header";
 import Rightpanel from "./components/rightpanel";
 import LeftPanel from "./components/leftPanel";
