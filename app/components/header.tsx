@@ -7,7 +7,7 @@ import Settings from "./settings";
 
 const Header = () => {
   return (
-    <div className="bg-white h-[56px] border-b-[1px] flex items-center px-6 justify-between">
+    <div className="fixed z-50 top-0 w-full bg-white h-[56px] border-b-[1px] flex items-center px-6 justify-between">
       <div className="min-w-[368px]">
         <Image
           className="h-[20px] w-auto"
