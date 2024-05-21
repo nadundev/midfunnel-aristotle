@@ -70,13 +70,13 @@ const Rightpanel = () => {
             THE STORY SO FAR
           </h4>
           <p className="text-sm font-medium text-gray-700">
-            The deal is now in the "Contract Sent" stage, and we're waiting for
+            The deal is now in the &ldquo;Contract Sent&rdquo; stage, and we&quot;re waiting for
             Miri to respond to the draft contract you sent a week ago. Over the
-            past 3 weeks, you've been actively engaging with Miri from Dropbox
-            to explore a potential partnership. You've had a productive meeting
-            and a video call to dive into Dropbox's needs and discuss how
-            Webflow can support them. You've also sent a detailed email
-            summarizing Webflow's offerings along with a draft contract that
+            past 3 weeks, you&quot;ve been actively engaging with Miri from Dropbox
+            to explore a potential partnership. You&quot;ve had a productive meeting
+            and a video call to dive into Dropbox&quot;s needs and discuss how
+            Webflow can support them. You&quot;ve also sent a detailed email
+            summarizing Webflow&quot;s offerings along with a draft contract that
             outlines proposed terms, pricing, and SLAs.
           </p>
         </div>
