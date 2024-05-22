@@ -19,7 +19,9 @@ const Header = () => {
       </div>
       <Searchbar />
       <div className="flex gap-4">
-        <TotalDeals />
+        <div className="flex items-center">
+          <TotalDeals />
+        </div>
         <AvatarBlock />
         <Settings />
       </div>

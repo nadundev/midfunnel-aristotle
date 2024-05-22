@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main>
       <Header />
-      <div className="grid grid-cols-[20%_1fr_25%] h-[calc(100vh_-_56px)] mt-[56px]">
+      <div className="grid grid-cols-[20%_1fr_25%] h-[calc(100vh_-_56px)] overflow-hidden mt-[56px]">
         <LeftPanel />
         <MiddlePanel />
         <Rightpanel />

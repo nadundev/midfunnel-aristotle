@@ -4,7 +4,7 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 const Rightpanel = () => {
   return (
-    <div className="h-full w-full px-4 py-2.5 border-l">
+    <div className="h-full w-full px-4 py-2.5 border-l overflow-auto">
       <h2 className="text-xl text-gray-700 font-semibold">Details</h2>
       <div className="flex flex-col gap-5 pt-4">
         <div className="flex flex-col gap-1">
